@@ -1,0 +1,3 @@
+﻿  missingnumber.cpp
+d:\github仓库\likou\test_1_27\test_1_27\missingnumber.cpp(11): error C2228: “.size”的左边必须有类/结构/联合
+  d:\github仓库\likou\test_1_27\test_1_27\missingnumber.cpp(11): note: 类型是“int [9]”
